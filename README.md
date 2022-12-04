@@ -38,6 +38,9 @@
   <a href="tel:+8801621404809">
     <img src="https://img.shields.io/badge/Phone-%2B8801621404809-inromational" alt="Phone Badge"/>
   </a>
+  <a href="mailto:iimtiajul@gmail.com">
+    <img src="https://img.shields.io/badge/Email-iimtiajul%40gmail.com-yellow" alt="Email Badge"/>
+  </a>
 </div>
 <!---
 Imtiajul/Imtiajul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
