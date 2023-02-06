@@ -5,6 +5,21 @@
 - 🌱 I’m currently learning Node Js & backend tools.
 - 💞️ I’m looking to collaborate with you on React & Frontend development.
 - 📫 How to reach me ...
+<div id="badges">
+  <a href="mailto:iimtiajul@gmail.com">
+    <img src="https://img.shields.io/badge/Email-iimtiajul%40gmail.com-blue" alt="Email Badge"/>
+  </a>
+   <a href="tel:+8801621404809">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B8801621404809-orange" alt="Phone, WhatsApp Number" title="Phone, WhatsApp Number"/>
+  </a>
+  <a href="https://imtiajul.ml">
+    <img src="https://img.shields.io/badge/Portfolio-imtiajul.ml-success" alt="Portfolio site"/>
+  </a>
+  <a href="https://www.linkedin.com/in/imtiajul-islam-2486a6117/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ 
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -28,20 +43,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Imtiajul&border_radius=5.5)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imtiajul)](https://github.com/anuraghazra/github-readme-stats)
-<div id="badges">
-  <a href="https://www.linkedin.com/in/imtiajul-islam-2486a6117/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="http://imtiajul.ml">
-    <img src="https://img.shields.io/badge/Portfolio-imtiajul.ml-success" alt="Portfolio Badge"/>
-  </a>
-  <a href="tel:+8801621404809">
-    <img src="https://img.shields.io/badge/Phone-%2B8801621404809-inromational" alt="Phone Badge"/>
-  </a>
-  <a href="mailto:iimtiajul@gmail.com">
-    <img src="https://img.shields.io/badge/Email-iimtiajul%40gmail.com-blue" alt="Email Badge"/>
-  </a>
-</div>
+
 <!---
 Imtiajul/Imtiajul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
