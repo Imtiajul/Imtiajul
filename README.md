@@ -6,7 +6,7 @@
 <br>
 
 - 👋 Hi, I’m @Imtiajul
-- 👀 I’m interested in full stack development.
+- 👀 I’m working as a frontend devs mostly using React and Next.js.
 - 🌱 I’m currently learning Node Js & backend tools.
 - 💞️ I’m looking to collaborate with you on React & Frontend development.
 - 📫 How to reach me ...
