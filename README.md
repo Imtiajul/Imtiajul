@@ -6,9 +6,9 @@
 <br>
 
 - 👋 Hi, I’m @Imtiajul
-- 👀 I’m working as a frontend devs mostly using React and Next.js.
-- 🌱 I’m currently learning Node Js & backend tools.
-- 💞️ I’m looking to collaborate with you on React & Frontend development.
+- 👀 I’m working as a Software Engineer.
+- 🌱 I’m using tools mostly React, Next.js, Node.js, Express.js.
+- 💞️ I’m looking to collaborate with you on frontend and backend development.
 - 📫 How to reach me ...
 
 <div id="badges">
