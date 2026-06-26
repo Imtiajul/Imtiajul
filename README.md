@@ -15,7 +15,6 @@
    <a href="https://imtiajul.pro">
       <img src="https://img.shields.io/badge/Portfolio-imtiajul.ml-success" alt="Portfolio site" />
    </a>
-   <a href="https://www.linkedin.com/in/imtiajul-islam-2486a6117/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="LinkedIn Badge" />
    </a> <br>
