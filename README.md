@@ -7,7 +7,7 @@
 
 - 👋 Hi, I’m @Imtiajul
 - 👀 I’m working as a Software Engineer.
-- 🌱 I’m using tools mostly React, Next.js, Node.js, Express.js, WordPress, LLM and Rag.
+- 🌱 I’m using tools mostly React, Next.js, Node.js, Express.js, Django, WordPress, LLM and Rag.
 - 💞️ I’m looking to collaborate with you on frontend and backend development.
 - 📫 How to reach me ...
 
